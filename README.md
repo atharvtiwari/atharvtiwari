@@ -12,12 +12,4 @@ Here are some ideas to get you started:
 -->
 ![](/assets/atharvtiwari.gif)
 ### Hi there 👋
-I'm Atharv.
-
-     _       ___      _   _ 
-    | |     /   |    | | | |
-    | |__  / /| |_ __| | | |
-    |  _ \/ /_| |  __| | | |
-    | | | \___  | |  \ \_/ /
-    |_| |_|   |_/_|   \___/ 
-    
+I'm Atharv. I'm new, just trying stuff out.
