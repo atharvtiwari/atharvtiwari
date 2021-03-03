@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://r2---sn-qpni5f58xpo-5hqe.googlevideo.com/videoplayback?expire=1614794649&ei=OXs_YKWLN5a0vgTD1JSIAw&ip=103.192.205.135&id=o-ABgCbxwhgVPbCJIgy8IZpvctCtq-AMVTPGEHf4zUO50m&itag=18&source=youtube&requiressl=yes&mh=7c&mm=31%2C29&mn=sn-qpni5f58xpo-5hqe%2Csn-cvh76n7d&ms=au%2Crdu&mv=m&mvi=2&pl=24&gcr=in&initcwndbps=322500&vprv=1&mime=video%2Fmp4&ns=RSZHelPzHDrOA_r1fS0O_WoF&gir=yes&clen=15929856&ratebypass=yes&dur=212.091&lmt=1578933304205652&mt=1614772839&fvip=4&fexp=24007246&c=WEB&txp=5531432&n=yG1nmU9FThw3ZMRMJiv&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgFB7jfbNK_mK5No70RQCx09_BesVIP8S1Du97BWLGHsMCIHa8lp0LwAwA5R6ZPNubJvHpjVzY4UEz_ffm83yymUCb&sig=AOq0QJ8wRAIgVOO6nbHpSo8YIqtSwrJorD1l-C6j1QkjCa2KCqHxBdkCIC-4OjKzBozjfKw_7qw-lj51Ad8wM-TSmEfO5_r6mauf)
+![](/assets/atharvtiwari.gif)
 ### Hi there 👋
 I'm Atharv. I'm new, just trying stuff out.
